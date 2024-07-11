@@ -1,13 +1,7 @@
-# Welcome to Defold
+# defold-hexagon
 
-This project was created from the "empty" project template.
+This is the backup and library module for Defold, based on the hexagon [Lua implementation](https://www.redblobgames.com/grids/hexagons/codegen/output/lib.lua) by [Red Blob Games](https://www.redblobgames.com/). You can find the original implementation [here](https://www.redblobgames.com/grids/hexagons/codegen/output/lib.lua).
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+All credits go to [Red Blob Games](https://x.com/redblobgames). 
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
-
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
-
----
+vmath.vector3 based implementation is here: https://github.com/redoak/defold-hexagon-grid-sample
