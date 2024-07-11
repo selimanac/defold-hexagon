@@ -1,0 +1,4 @@
+local hexagon = require("hexagon.hexagon")
+function init(self)
+	hexagon.test_all()
+end
